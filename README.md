@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LrnDuarte
-- 👀 I’m interested in data science, artificial intelligence, machine learning and deep learning 
-- 🌱 I’m currently learning on data quality
-- 💞️ I’m looking to collaborate on data analysis projects, machine learning, on research envolving deata quality and trend prediction 
+- 👀 I’m interested in Data science, Artificial Intelligence, Machine Learning and Deep Learning 
+- 🌱 I’m currently Learning on Data Quality
+- 💞️ I’m looking to collaborate on Data Analysis projects, Machine Learning, on research envolving Data quality and Trend Prediction 
 - 📫 How to reach me: @Lrn_duarte or at 91987561274
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I´m love drawing and sewing
